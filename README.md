@@ -1,4 +1,4 @@
 ### Oie! 😊
 
-- 🌱 3º período de ADS
+- 🌱 5º período de ADS
 - 📫 julirittel@gmail.com
