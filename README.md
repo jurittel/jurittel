@@ -6,12 +6,42 @@ Gosto muito de transformar dados em informações úteis para tomada de decisão
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Dados e BI: SQL, MySQL, Microsoft SQL Server, Power BI, Excel]
-![Desenvolvimento Back-end: PHP, C/C++]
-![Desenvolvimento Front-end: HTML/CSS, JavaScript, UI, Prototipagem]
-![Automação: Python, Pandas, Power Automate, Power Apps]
-![Ferramentas e Plataformas: SharePoint, GitHub, VS Code, MySQL Workbench, Figma, Microsoft Project, Office 365]
-![Conhecimentos Complementares: Redes de Computadores, Cibersegurança]
+### 📊 Dados e BI
+- SQL
+- MySQL
+- Microsoft SQL Server
+- Power BI
+- Excel
+
+### 🤖 Automação e Análise
+- Python
+- Pandas
+- Power Automate
+- Power Apps
+
+### 💻 Desenvolvimento Front-end
+- HTML
+- CSS
+- JavaScript
+- UI/UX
+- Prototipação
+
+### ⚙️ Desenvolvimento Back-end
+- PHP
+- C/C++
+
+### 🛠️ Ferramentas e Plataformas
+- GitHub
+- VS Code
+- SharePoint
+- MySQL Workbench
+- Figma
+- Microsoft Project
+- Office 365
+
+### 🔒 Conhecimentos Complementares
+- Redes de Computadores
+- Cibersegurança
 
 ## 📈 Projetos de Dados
 
