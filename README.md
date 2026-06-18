@@ -6,11 +6,12 @@ Gosto muito de transformar dados em informações úteis para tomada de decisão
 
 ## 🚀 Tecnologias e Ferramentas
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Dados e BI: SQL, MySQL, Microsoft SQL Server, Power BI, Excel]
+![Desenvolvimento Back-end: PHP, C/C++]
+![Desenvolvimento Front-end: HTML/CSS, JavaScript, UI, Prototipagem]
+![Automação: Python, Pandas, Power Automate, Power Apps]
+![Ferramentas e Plataformas: SharePoint, GitHub, VS Code, MySQL Workbench, Figma, Microsoft Project, Office 365]
+![Conhecimentos Complementares: Redes de Computadores, Cibersegurança]
 
 ## 📈 Projetos de Dados
 
