@@ -2,7 +2,7 @@
 
 Analista e Desenvolvedora de Sistemas
 
-Gosto muito de transformar dados em informações úteis para tomada de decisão. Tenho experiência com análise de dados, criação de dashboards e desenvolvimento de soluções utilizando ferramentas de BI e programação.
+Profissional de Tecnologia com foco em Dados e Business Intelligence. Tenho interesse em transformar dados em informações estratégicas por meio de análises, SQL e dashboards, além de experiência com desenvolvimento de sistemas e automação. Estou sempre buscando aprender novas tecnologias e criar soluções que gerem valor para pessoas e negócios.
 
 ## 🚀 Tecnologias e Ferramentas
 
