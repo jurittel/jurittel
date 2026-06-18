@@ -48,8 +48,9 @@ Gosto muito de transformar dados em informações úteis para tomada de decisão
 | Projeto | Ferramentas | Status |
 |----------|----------|----------|
 | Dashboard de Indicadores Comerciais | Power BI, Excel | ✅ Concluído |
-| Análise de Vendas | Power BI, SQL | ✅ Concluído |
-| Dashboard de Backlog Regional | Power BI | ✅ Concluído |
+| Análise de Vendas | Power BI, Excel | ✅ Concluído |
+| Trabalho Acadêmico | Power BI, SQL | ✅ Concluído |
+| Dashboard de Backlog Regional | Power BI, SQL | ✅ Concluído |
 
 ## 🎓 Formação
 
