@@ -47,7 +47,7 @@ Profissional de Tecnologia com foco em Dados e Business Intelligence. Tenho inte
 
 | Projeto | Ferramentas | Status |
 |----------|----------|----------|
-| Dashboard de Indicadores Comerciais | Power BI, Excel | ✅ Concluído |
+| Dashboard-inteligencia-mercado | Power BI, Excel | ✅ Concluído |
 | Trabalho Acadêmico | Power BI, SQL | ✅ Concluído |
 | Dashboard de Backlog Regional | Power BI, SQL | ✅ Concluído |
 
