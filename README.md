@@ -1,36 +1,36 @@
-# Olá, eu sou a Juliana Rittel
+# Olá, eu sou a Juliana Rittel :)
 
-Analista e Desenvolvedora de Sistemas
+Analista e desenvolvedora de sistemas
 
-Profissional de Tecnologia com foco em Dados e Business Intelligence. Tenho interesse em transformar dados em informações estratégicas por meio de análises, SQL e dashboards, além de experiência com desenvolvimento de sistemas e automação. Estou sempre buscando aprender novas tecnologias e criar soluções que gerem valor para pessoas e negócios.
+Profissional de tecnologia com foco em dados e business intelligence. Tenho interesse em transformar dados em informações estratégicas por meio de análises, SQL e dashboards, além de experiência com desenvolvimento de sistemas e automação. Estou sempre buscando aprender novas tecnologias e criar soluções que gerem valor para pessoas e negócios.
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e ferramentas
 
-### 📊 Dados e BI
+### Dados e BI
 - SQL
 - MySQL
 - Microsoft SQL Server
 - Power BI
 - Excel
 
-### 🤖 Automação e Análise
+### Automação e análise
 - Python
 - Pandas
 - Power Automate
 - Power Apps
 
-### 💻 Desenvolvimento Front-end
+### Desenvolvimento front-end
 - HTML
 - CSS
 - JavaScript
 - UI/UX
 - Prototipação
 
-### ⚙️ Desenvolvimento Back-end
+### Desenvolvimento back-end
 - PHP
 - C/C++
 
-### 🛠️ Ferramentas e Plataformas
+### Ferramentas e plataformas
 - GitHub
 - VS Code
 - SharePoint
@@ -39,22 +39,22 @@ Profissional de Tecnologia com foco em Dados e Business Intelligence. Tenho inte
 - Microsoft Project
 - Office 365
 
-### 🔒 Conhecimentos Complementares
-- Redes de Computadores
+### Conhecimentos complementares
+- Redes de computadores
 - Cibersegurança
 
-## 📈 Projetos de Dados
+## Projetos de dados
 
 | Projeto | Ferramentas | Status |
 |----------|----------|----------|
 | Dashboard-inteligencia-mercado | Power BI, Excel | ✅ Concluído |
 | Dashboard de Backlog Regional | Power BI, SQL | ✅ Concluído |
 
-## 🎓 Formação
+## Formação
 
-- Tecnóloga em Análise e Desenvolvimento de Sistemas
+- Tecnóloga em análise e desenvolvimento de sistemas
 
-## 📫 Contato
+## Contato
 
 - ✉️ julirittel@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/juliana-rittel/
