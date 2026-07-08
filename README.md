@@ -53,7 +53,7 @@ Profissional de tecnologia com foco em dados e business intelligence. Tenho inte
 
 ## Formação
 
-- Tecnóloga em análise e desenvolvimento de sistemas
+- Graduada em análise e desenvolvimento de sistemas
 
 ## Contato
 
